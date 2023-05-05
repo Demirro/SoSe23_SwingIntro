@@ -7,4 +7,11 @@ Positiv ist dabei allerdings, dass die Methoden und Eigenschaften auch meist rec
 Wiederum problematisch, und das haben wir in der Sitzung an meinem Code auch gesehen, manchmal klappt es aus unerfindlichen Gründen einfach trotzdem nicht, obwohl es der gleiche Code ist, wie bei euch.
 So ganz nebenbei war das Problem nach einem Eclipse-Neustart behoben.
 
+Ihr müsst bei Swing nichts auswendig lernen. Es ist wichtig zu wissen und zu verstehen, was passiert, damit man nach den entsprechenden Problemen/Lösungen suchen kann. Für die genauen Methoden und Komponenten gibt es nicht umsonst Cheatsheets.
+
 Ich habe den (jetzt kommentierten) Code der Sitzung  hier hochgeladen. Die angesprochene Übungsaufgabe findet ihr hier: https://github.com/Demirro/SoSe23_SwingCalc
+
+Hier jetzt noch ein paar zusätzliche Ressourcen zu Swing:
+https://www.edureka.co/blog/java-swing/
+https://cheatography.com/neonknightoa/cheat-sheets/java-swing-gui/
+https://docs.oracle.com/javase/tutorial/uiswing/layout/visual.html
