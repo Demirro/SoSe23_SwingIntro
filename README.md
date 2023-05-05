@@ -12,6 +12,7 @@ Ihr müsst bei Swing nichts auswendig lernen. Es ist wichtig zu wissen und zu ve
 Ich habe den (jetzt kommentierten) Code der Sitzung  hier hochgeladen. Die angesprochene Übungsaufgabe findet ihr hier: https://github.com/Demirro/SoSe23_SwingCalc
 
 Hier jetzt noch ein paar zusätzliche Ressourcen zu Swing:
+
 https://www.edureka.co/blog/java-swing/
 https://cheatography.com/neonknightoa/cheat-sheets/java-swing-gui/
 https://docs.oracle.com/javase/tutorial/uiswing/layout/visual.html
